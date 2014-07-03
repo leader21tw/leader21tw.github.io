@@ -1,0 +1,8 @@
+index.txt	File And Directory Description
+cuteftp.exe	Latest Version Of CuteFTP
+archive		Previous Versions Of CuteFTP
+english		Latest English Version Of CuteFTP
+french		Latest French Version Of CuteFTP
+german		Latest German Version Of CuteFTP
+portuguese	Latest Portuguese Version Of CuteFTP
+spanish		Latest Spanish Version Of CuteFTP

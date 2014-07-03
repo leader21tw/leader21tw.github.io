@@ -1,0 +1,65 @@
+BODY { scrollbar-face-color: #8fabbf; scrollbar-shadow-color: 
+#457230; scrollbar-highlight-color: #8fabbf; scrollbar-3dlight-color: #457230; 
+scrollbar-darkshadow-color: #8fabbf; scrollbar-track-color: #8fabbf; scrollbar-arrow-color: 
+#457230} 
+
+.menu {
+	 font-family: "Verdana","Arial", "Helvetica", "sans-serif"; font-size: 13px; color: #000000; text-decoration: none} 
+.menu:active { color: #000000; text-decoration: none} 
+.menu:visited { text-decoration: none; color: #000000} 
+.menu:link { text-decoration: none; font-family: "Verdana","Arial", "Helvetica", "sans-serif"; color: #000000} 
+.menu:hover {	color: #FF6600;	text-decoration: underline;}
+
+.text {	 font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 13px; line-height: 23px; color: #000000; text-decoration: none} 
+.text:active {  text-decoration: underline} 
+.text:visited { text-decoration: underline} 
+.text:link { text-decoration: underline; font-family: "Verdana","Arial", "Helvetica", "sans-serif"} 
+.text:hover {	color: #d4700f;	text-decoration: underline;}
+
+
+.text-s {	 font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 11px; line-height: 16px; color: #000000; text-decoration: none} 
+.text-s:active {  text-decoration: underline} 
+.text-s:visited { text-decoration: underline} 
+.text-s:link { text-decoration: underline; font-family: "Verdana","Arial", "Helvetica", "sans-serif"} 
+.text-s:hover {	color: #d4700f;	text-decoration: underline;}
+
+
+.bottom {
+ font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 13px; line-height: 24px; color: #ffffff; text-decoration: none} 
+.bottom :active {  text-decoration: none} 
+.bottom :visited { text-decoration: none} 
+.bottom :link { text-decoration: none; font-family: "Verdana","Arial", "Helvetica", "sans-serif"} 
+.bottom :hover {	color: #FF6600;	text-decoration: underline;}
+
+.text-b {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 15px;
+	line-height: 22px;
+	color: #BD0000;
+	text-decoration: none;
+	font-weight: bold;
+} 
+.text-b:active {  text-decoration: underline} 
+.text-b:visited { text-decoration: underline} 
+.text-b:link { text-decoration: underline; font-family: "Verdana","Arial", "Helvetica", "sans-serif"} 
+.text-b:hover {	color: #d4700f;	text-decoration: underline;}
+
+
+
+.number {	 font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px;  color: #ffffff; text-decoration: none} 
+.number:active {   text-decoration:  none} 
+.number:visited { text-decoration:  none} 
+.number:link { text-decoration:  none} 
+.number:hover {	color: #d4700f;	text-decoration: underline;}
+
+.right {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #006699;
+	text-decoration: none;
+		line-height: 24px;
+} 
+.right:active {   text-decoration:  none} 
+.right:visited { text-decoration:  none} 
+.right:link { text-decoration:  none} 
+.right:hover {	text-decoration: underline;}

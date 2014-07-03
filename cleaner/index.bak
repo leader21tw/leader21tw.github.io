@@ -1,0 +1,67 @@
+<HTML>
+<HEAD>
+<TITLE>index</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</HEAD>
+<BODY BGCOLOR=#333399 topmargin="0">
+<!-- ImageReady Slices (index.psd) --> 
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 align="center">
+  <TR>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=34 HEIGHT=1></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=131 HEIGHT=1></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=64 HEIGHT=1></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=17 HEIGHT=1></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=108 HEIGHT=1></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=195 HEIGHT=1></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=211 HEIGHT=1></TD>
+		<TD></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+			<IMG SRC="images/index_01.gif" WIDTH=246 HEIGHT=103></TD>
+		<TD COLSPAN=3>
+			<IMG SRC="images/index_02.gif" WIDTH=514 HEIGHT=103></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=103></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=2>
+			<IMG SRC="images/index_03.gif" WIDTH=34 HEIGHT=223></TD>
+		
+    <TD ROWSPAN=2> <a href="po2-3h.htm#p01-1"><IMG SRC="images/index_04.gif" WIDTH=131 HEIGHT=223 border="0" alt="Door Type Dish Washing Machines" name="LD-570T"></a></TD>
+		<TD ROWSPAN=2>
+			<IMG SRC="images/index_05.gif" WIDTH=64 HEIGHT=223></TD>
+		
+    <TD COLSPAN=2 ROWSPAN=2> <a href="p02-1h.htm#l1"><IMG SRC="images/index_06.gif" WIDTH=125 HEIGHT=223 border="0" name="LD650UB" alt="Ultrasonic dish washing machines "></a></TD>
+		<TD>
+			<IMG SRC="images/index_07.gif" WIDTH=195 HEIGHT=189></TD>
+		
+    <TD> <a href="po2-2h.htm#p02-1"><IMG SRC="images/index_08.gif" WIDTH=211 HEIGHT=189 border="0" alt="Cabinet type automatic washing machines" name="Cabinet"></a></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=189></TD>
+	</TR>
+	<TR>
+		
+    <TD ROWSPAN=2> <a href="p03-1.htm"><img src="images/LD-400a.gif" width=195 height=128 border="0" alt="Leader Ultrasonic Cleaners " name="Leader"></a></TD>
+		<TD ROWSPAN=2>
+			<IMG SRC="images/index_10.gif" WIDTH=211 HEIGHT=128></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=34></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=5>
+			<IMG SRC="images/index_11.gif" WIDTH=354 HEIGHT=94></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=94></TD>
+	</TR>
+</TABLE>
+<!-- End ImageReady Slices -->
+</BODY>
+</HTML>
